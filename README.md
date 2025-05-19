@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on html,css,bootstrap,javascript, react
 - 📫 How to reach me inbox to WaterMelon977
+or email sumanthravuri32@gmail.com
 .
 
 <!---
